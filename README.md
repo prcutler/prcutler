@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - I'm not on most social networks except [Twitter](https://www.twitter.com/prcutler) where I tweet about music and retweet a lot of political stuff. (You've been warned).
 
 #### What I'm working on
-- I'm currently working on my Python skills by building the Silver Saucer website.  I'm learning more about Pyramid (the right way), Bootstrap and CSS, API integration (with Discogs), and how to test with `pytest`.
+- I'm currently working on my Python skills by building the Silver Saucer website.  I'm learning more about Pyramid web framework (the right way), Bootstrap and CSS, API integration (with Discogs), and how to test with `pytest`.
