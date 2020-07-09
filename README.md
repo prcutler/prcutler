@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### You can find me around the web:
-- My [homepage](https://www.paulcutler.org) has more information about me and my blog, where I've been blogging about nothing for about twenty years.  Lately I've been blogging about learning Python and building an arcade cabinet.  It also includes a number of ways you can reach me.
+- My [homepage](https://www.paulcutler.org) has more information about me and also hosts my blog, where I've been blogging about nothing for about twenty years.  Lately I've been blogging about learning Python and building an arcade cabinet.  It also includes a number of ways you can reach me.
 - I'm not on most social networks except [Twitter](https://www.twitter.com/prcutler) where I tweet about music and retweet a lot of political stuff. (You've been warned).
 
 #### What I'm working on
