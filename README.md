@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 #### What I'm working on
 - I'm currently working on my Python skills by building the Silver Saucer website.  I'm learning more about Pyramid web framework (the right way), Bootstrap and CSS, API integration (with Discogs), and how to test with `pytest`.
+- I've started to tinker with electronics and hardware, specifically the Raspberry Pi.  It's fun to combine my budding Python skills with hardware.
