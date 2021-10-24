@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 - I'm not on most social networks except [Twitter](https://www.twitter.com/prcutler) where I tweet about music and retweet a lot of political stuff. (You've been warned).
 
 #### What I'm working on
+- I've started to tinker with electronics and hardware, specifically the Raspberry Pi.  It's fun to combine my budding Python skills with hardware.  I just finished my `pi-dial` project, which uses a Raspberry Pi, a 3D printed enclosure, an LCD, and two rotary encoders to change the input, volume, and mute status of my Denon receiver over the network.
 - I'm currently working on my Python skills by building the Silver Saucer website.  I'm learning more about Pyramid web framework (the right way), Bootstrap and CSS, API integration (with Discogs), and how to test with `pytest`.
-- I've started to tinker with electronics and hardware, specifically the Raspberry Pi.  It's fun to combine my budding Python skills with hardware.  I'm currently working on building a custom Raspberry Pi case with an LCD and button to remotely mute and control the volume of my Denon receiver.
+
