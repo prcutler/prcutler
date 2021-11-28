@@ -1,4 +1,6 @@
-### Hi, I'm Paul.  Pronouns: He / Him.
+### Hi, I'm Paul. 
+
+(Pronouns:  he / him)
 
 <!--
 **prcutler/prcutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
