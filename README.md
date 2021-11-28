@@ -1,4 +1,4 @@
-### Hi, I'm Paul.
+### Hi, I'm Paul.  Pronouns: He / Him.
 
 <!--
 **prcutler/prcutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 
 #### What I'm working on
 - I've started to tinker with electronics and hardware, specifically the Raspberry Pi.  It's fun to combine my budding Python skills with hardware.  I just finished my `pi-dial` project, which uses a Raspberry Pi, a 3D printed enclosure, an LCD, and two rotary encoders to change the input, volume, and mute status of my Denon receiver over the network.
-- I'm currently working on my Python skills by building the Silver Saucer website.  I'm learning more about Pyramid web framework (the right way), Bootstrap and CSS, API integration (with Discogs), and how to test with `pytest`.
+- I recently purchased a 3D Printer, a Creality Ender 3 v2, and I'm combining that with my interest in CircuitPython.
+- My CircuitPython projects include an Adafruit Macropad, Sound Reactive Neopixels powered by a rp2040 Feather, a Media Dial, and another project just in the planning phase.
 
