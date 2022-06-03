@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 #### What I'm working on (when not working on the podcast)
 - I continue to tinker with silversaucer.com, a website I've built that integrates with [Discogs](https://discogs.com).
 - I'm learning electronics with Python and CircuitPython.  My projects so far include audio reactive lights built into a speakerstand, a Raspberry Pi powered project to control Zone 2 of my Denon receiver, a MacroPad, and an Adafruit PyPortal project that shows the album art for an album randomly chosen on silversaucer.com.
+- Contributing documentation to a couple of different open source projects
