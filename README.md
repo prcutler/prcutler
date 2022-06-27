@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - I'm not on most social networks except [Twitter](https://www.twitter.com/prcutler) where I tweet about music and retweet a lot of political stuff. (You've been warned).
 - I host [The CircuitPython Show](https://circuitpythonshow.com), an independent podcast about the people in and around CircuitPython. If you enjoy the show, please tell a friend, write a review, or sponsor the show financially.  
 
-![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
+![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)(https://github.com/sponsors/prcutler)
 
 #### What I'm working on (when not working on the podcast)
 - I continue to tinker with silversaucer.com, a website I've built that integrates with [Discogs](https://discogs.com).
