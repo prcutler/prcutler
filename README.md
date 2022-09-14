@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 -->
 
 #### You can find me around the web:
-- My [homepage](https://www.paulcutler.org) has more information about me and also hosts my blog, where I've been blogging about nothing for about twenty years.  Lately I've been blogging about learning Python and building the `pi-dial` project.  It also includes a number of ways you can reach me.
-- I'm not on most social networks except [Twitter](https://www.twitter.com/prcutler) where I tweet about music and retweet a lot of political stuff. (You've been warned).
-- I host [The CircuitPython Show](https://circuitpythonshow.com), an independent podcast about the people in and around CircuitPython. If you enjoy the show, please tell a friend, write a review, or sponsor the show financially.  
+- My [homepage](https://www.paulcutler.org) has more information about me and also hosts my blog, where I've been blogging about nothing for about twenty years.  I mostly blog about learning Python, CircuitPython, and my podcasts.  It also includes a number of ways you can reach me.
+- You can find me on [Twitter](https://www.twitter.com/prcutler) where I tweet about music, the podcasts, and retweet a lot of political stuff. (You've been warned).
+- 🎤 I host [The CircuitPython Show](https://circuitpythonshow.com), an independent podcast about the people in and around CircuitPython. I also co-host [The Bootloader](https://www.thebootloader.net), a pocast where Tod Kurt and I bring you a few interesting things from the maker and tech scenes each episode. If you enjoy either show, please tell a friend, write a review, or sponsor the show financially.  
 
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/prcutler)
 
-#### What I'm working on (when not working on the podcast)
-- I continue to tinker with silversaucer.com, a website I've built that integrates with [Discogs](https://discogs.com).
-- I'm learning electronics with Python and CircuitPython.  My projects so far include audio reactive lights built into a speakerstand, a Raspberry Pi powered project to control Zone 2 of my Denon receiver, a MacroPad, and an Adafruit PyPortal project that shows the album art for an album randomly chosen on silversaucer.com.
+#### What I'm working on (when not working on the podcasts)
+- I continue to tinker with [silversaucer.com](https://silversaucer.com), a website I've built that integrates with my record collection using [Discogs](https://discogs.com).
+- I'm continue to learn Python and CircuitPython. I have too many project to list, but I love hardware projects that use audio reactive lights.
 - Contributing documentation to a couple of different open source projects
