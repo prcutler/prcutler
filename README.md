@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 #### What I'm working on (when not working on the podcasts)
 - I continue to tinker with [silversaucer.com](https://silversaucer.com), a website I've built that integrates with my record collection using [Discogs](https://discogs.com).
 - I'm continue to learn Python and CircuitPython. I have too many project to list, but I love hardware projects that use audio reactive lights.
-- Contributing documentation to a couple of different open source projects
+- Writing and contributing documentation for open source projects
