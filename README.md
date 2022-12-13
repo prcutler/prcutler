@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 - 🎤 I host [The CircuitPython Show](https://circuitpythonshow.com), an independent podcast about the people in and around CircuitPython. I also co-host [The Bootloader](https://www.thebootloader.net), a podcast where Tod Kurt and I bring you a few interesting things from the maker and tech scenes. If you enjoy either show, please tell a friend, write a review, or sponsor the show financially.  
 - You can find me on [Twitter](https://www.twitter.com/prcutler) and <a href="https://fosstodon.org/@prcutler" rel="me">Mastodon</a> where I tweet about music, the podcasts, Python and CircuitPython, and maybe a little politics every now and then. (You've been warned).
 
-[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/prcutler)
-
 #### What I'm working on (when not working on the podcasts)
 - I continue to tinker with [silversaucer.com](https://silversaucer.com), a website I've built that integrates with my record collection using [Discogs](https://discogs.com).
 - I'm continue to learn Python and CircuitPython. I have too many project to list, but I love hardware projects that use audio reactive lights.
